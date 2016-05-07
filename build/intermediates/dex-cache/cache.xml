@@ -2,60 +2,46 @@
 <items version="2" >
 
     <item
-        jar="E:\Android\Apps\MADapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jar="E:\Android\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="6e239441500605809818997dd63b62a947195f8c">
-        <dex dex="E:\Android\Apps\MADapp\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_756f3969800cb5aaa281e6ef18a1f0fa9739b1d1.jar" />
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="E:\Android\Apps\MADapp\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0_682fec8bf0e3bd5f14f274012605fcdf01338ea1.jar" />
     </item>
     <item
-        jar="E:\Android\Apps\MADapp\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jar="E:\Android\Apps\MADapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
-        <dex dex="E:\Android\Apps\MADapp\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.0_28a9fb6f92b67da69f31f9afe207e46de64c4c28.jar" />
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="E:\Android\Apps\MADapp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_e3a9dcd271109a06bd07cfbfdf5408c77de2373d.jar" />
     </item>
     <item
-        jar="E:\Android\Apps\MADapp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jar="E:\Android\Apps\MADapp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
-        <dex dex="E:\Android\Apps\MADapp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_938d004d77fa32175bb9f3f858d23f7cf2473e33.jar" />
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="E:\Android\Apps\MADapp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_7c602bd6f2961bf753a639ebef12c2a752724d7b.jar" />
     </item>
     <item
-        jar="E:\Android\Apps\MADapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jar="E:\Android\Apps\MADapp\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
-        <dex dex="E:\Android\Apps\MADapp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_ef0f22727b0736bfa57d3035fb96f00c7d6228eb.jar" />
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="E:\Android\Apps\MADapp\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.0_18b67d820185f75864d80b6b4960aeffacfc1a97.jar" />
     </item>
     <item
-        jar="E:\Android\Apps\MADapp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jar="E:\Android\Apps\MADapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="292a9fa091757208efa65e77eef63088247e51f3">
-        <dex dex="E:\Android\Apps\MADapp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_bde18be82340ccc75d3a02354ef5686683fcf383.jar" />
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="E:\Android\Apps\MADapp\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_9b0eef4d2d3e7994ea2f9a7541865fe5bd1f9dec.jar" />
     </item>
     <item
-        jar="E:\Android\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jar="E:\Android\Apps\MADapp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
-        <dex dex="E:\Android\Apps\MADapp\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_27914f74b24a96d154170825317617a7d6f6da28.jar" />
-    </item>
-    <item
-        jar="E:\Android\Apps\MADapp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
-        <dex dex="E:\Android\Apps\MADapp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_dfc7c98f28577d6a0319e7d5fbb6afd1c500d95d.jar" />
-    </item>
-    <item
-        jar="E:\Android\Apps\MADapp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
-        <dex dex="E:\Android\Apps\MADapp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.0_377ab400d2b5648430a2144d872fe6eb0e078b92.jar" />
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="E:\Android\Apps\MADapp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.0_4de556ec266da2ac7da78f1c72425e31e813544f.jar" />
     </item>
 
 </items>
